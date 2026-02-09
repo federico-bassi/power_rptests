@@ -1,0 +1,24 @@
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# venv
+.venv/
+venv/
+
+# notebooks
+.ipynb_checkpoints/
+
+# mac
+.DS_Store
+
+# data / outputs
+data/raw/
+data/processed/
+outputs/
