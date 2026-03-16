@@ -22,3 +22,6 @@ venv/
 data/raw/
 data/processed/
 outputs/
+
+# other files
+overview_status
